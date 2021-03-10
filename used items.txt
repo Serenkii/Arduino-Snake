@@ -1,0 +1,8 @@
+used items include:
+
+-Elegoo UNO R3 Controller Board
+-MAX7219 Module (Matrix)
+-830-Tie-Points Breadboard
+-Female-to-Male Dupont Wires(5 or more)
+-Jumper Wires (4 or more)
+-(USB Cable)
